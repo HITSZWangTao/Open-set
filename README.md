@@ -10,5 +10,5 @@ Moreover, F1-scores across 9 openness levels on mmGait dataset are presented in 
 
 <div align="center">
     <em>Table II. F1-scores from three distributions across 9 openness levels on mmGait dataset.</em><br>
-    <img src="Imgs/mmGaitDataset" alt="Table II",width="400"/>
+    <img src="Imgs/mmGaitDataset.png" alt="Table II",width="400"/>
 </div>
