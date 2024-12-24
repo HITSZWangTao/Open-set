@@ -3,6 +3,5 @@ This repository includes code and data for comparing the F1-scores of three extr
 
 <div align="center">
     <em>Table I. F1-scores from three distributions across 9 openness levels on our dataset.</em>
-    
     <img src="Imgs/OurDataset.png" alt="Table I",width="400"/>
 </div>
