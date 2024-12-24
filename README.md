@@ -29,14 +29,14 @@ Install PyTorch, as well as other required packages,
   pip3 install numpy
   pip3 install scipy
 ```
-Additionally, PyTorch3D and Limbr packets should be downloaded from GitHub for installation to avoid issues with pip3 installation.
+Additionally, *PyTorch3D* and *Limbr* packets should be downloaded from GitHub for installation to avoid issues with pip3 installation.
 
 Download or git clone the Open-set project. Download and unzip dataSampleCFAR005.zip and mmGaitSample.zip in releases to the project directory. 
 ```
    unzip dataSampleCFAR005.zip -d [Open-set root directory]
    unzip mmGaitSample.zip -d [Open-set root directory]
 ```
-Download CFAR005.pth and mmGait.pth pret-rained models from releases and move them into the "Codes" folder. 
+Download CFAR005.pth and mmGait.pth pret-rained models from releases and move them into the 'Codes' folder. 
 
 # Evaluation for Different Distributions
 
