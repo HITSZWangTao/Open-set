@@ -41,3 +41,8 @@ Download CFAR005.pth and mmGait.pth pret-rained models from releases and move th
 # Evaluation for Different Distributions
 
 In total, we provide two datasets and three extreme distributions for evaluation. In the 'Codes' folder, 'openWeibullModel.py', 'openGumbelModel.py', and 'openFrechetModel.py' contain the code for evaluating the three different distributions, respectively. In the 'Records' folder, we provide training and testing data files for evaluation. The last number in each testing file represents the number of identities used for testing. Authors can replace the data files in the 'Records' folder to fit the distributions on different datasets and evaluate them at various openness levels.
+
+
+[1]. Z. Meng, S. Fu, J. Yan, H. Liang, A. Zhou, S. Zhu, H. Ma, J. Liu, and N. Yang, “Gait recognition for co-existing multiple people using millimeter wave sensing,” in AAAI, 2020, pp. 849–856.
+
+[2]. Y. Yang, Y. Ge, B. Li, Q. Wang, Y. Lang, and K. Li, “Multiscenario open-set gait recognition based on radar micro-doppler signatures,” IEEE Trans. Instrum. Meas., vol. 71, pp. 1–13, 2022.
